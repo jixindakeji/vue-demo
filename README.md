@@ -42,7 +42,7 @@ npm run lint -- --fix
 
 ## Extra
 - the corresponding backend: https://github.com/jixindakeji/gin-demo.git
-- 对应版本的后端需要对应master分支的tag一致，比如 0.1.* 对应的tag是 0.1.* (*忽略)
+- the corresponding master tag must be identical，For example 0.1.* with 0.1.* tag (* ignored)
 
 ## Related Project
 
