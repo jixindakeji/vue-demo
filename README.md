@@ -41,7 +41,8 @@ npm run lint -- --fix
 
 
 ## Extra
-# And her backend server is according to Gin server
+- the corresponding backend: https://github.com/jixindakeji/gin-demo.git
+- 对应版本的后端需要对应master分支的tag一致，比如 0.1.* 对应的tag是 0.1.* (*忽略)
 
 ## Related Project
 
