@@ -43,6 +43,7 @@ npm run lint -- --fix
 ## Extra
 - the corresponding backend: https://github.com/jixindakeji/gin-demo.git
 - the corresponding master tag must be identical，For example 0.1.* with 0.1.* tag (* ignored)
+- if any bug found, please let me known, thanks for your sharing :)
 
 ## Related Project
 
